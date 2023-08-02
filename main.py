@@ -1,1 +1,1 @@
-print("My app version 1")
+print("My app version 2")
